@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Loja.Virtual.Web
+namespace LojaVirtual.Web
 {
     public class RouteConfig
     {
